@@ -46,14 +46,19 @@ Web
 https:://www.babyfuse.money
 
 Twitter
+@babyfusemoney
 
 Medium
+Next 
 
 Telegram
+Soon 
 
 Whitepaper
+Shortly
 
 Audit
+Shortly
 
 
 
