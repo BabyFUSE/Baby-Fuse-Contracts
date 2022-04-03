@@ -1,12 +1,12 @@
 # Baby-Fuse-Contracts
 
 contract babyfuse $BABYFUSE
-0x8F10D22081BCF00618483a20cc685833F1A956BE
+0x9A5De7C8faEacD606cE7F46422A6286C15a55F60
 
 
 
 Div Tracker
-0x8f1249a2005Fb9B1DA32c5693f7A84E201a333EA
+0x9B83723735D72c65FC3679A5F429A43a6237Dd0D
 
 Owner
 0x18Ff7f454B6A3233113f51030384F49054DD27BF
@@ -29,11 +29,11 @@ Tokenomics
 
 5% Marketing
 
-3% Liquidity Pool 
+3% Liquidity Pool
 
 
 Pair Address
-0xe915933C5632c178F6Bf3544Ae4bA747EC356c80
+0xA41bBFb7E6968C5646921A4f830eF8B5eafcE523
 
 
 Router Used NextGEN Finance
@@ -49,17 +49,13 @@ Twitter
 @babyfusemoney
 
 Medium
-Next 
+Next
 
 Telegram
-Soon 
+Soon
 
 Whitepaper
 Shortly
 
 Audit
 Shortly
-
-
-
-
