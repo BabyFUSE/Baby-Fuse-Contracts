@@ -46,14 +46,8 @@ https:://www.babyfuse.money
 Twitter
 @babyfusemoney
 
-Medium
-Next
-
 Telegram
-Soon
+https://t.me/Babyfusemoney
 
 Whitepaper
-Shortly
-
-Audit
 Shortly
