@@ -3,15 +3,16 @@
 contract babyfuse $BABYFUSE
 0x9A5De7C8faEacD606cE7F46422A6286C15a55F60
 
-To Claim fuse manually go to block explorer link
-ensure you are in correct wallet
+To Claim fuse manually go to block explorer link below and
+ensure you are in correct wallet.
 
 https://explorer.fuse.io/address/0x9A5De7C8faEacD606cE7F46422A6286C15a55F60/write-contract
 
-go to option 3 Claim
+go to option 3 (Claim)
+
 Click Claim
 
-Will will independantly of dapp (always works this way regardless)
+Will complete transaction of dapp (always works this way regardless)
 
 
 # Info
