@@ -3,7 +3,18 @@
 contract babyfuse $BABYFUSE
 0x9A5De7C8faEacD606cE7F46422A6286C15a55F60
 
+To Claim fuse manually go to block explorer link
+ensure you are in correct wallet
 
+https://explorer.fuse.io/address/0x9A5De7C8faEacD606cE7F46422A6286C15a55F60/write-contract
+
+go to option 3 Claim
+Click Claim
+
+Will will independantly of dapp (always works this way regardless)
+
+
+# Info
 
 Div Tracker
 0x9B83723735D72c65FC3679A5F429A43a6237Dd0D
@@ -17,7 +28,7 @@ Rewards Token FUSE
 Chart
 https://dexscreener.com/fuse/0xa41bbfb7e6968c5646921a4f830ef8b5eafce523
 
-Tokenomics
+# Tokenomics
 
 15% Buy tax
 
@@ -33,15 +44,15 @@ Tokenomics
 Pair Address
 0xA41bBFb7E6968C5646921A4f830eF8B5eafcE523
 
-
 Router Used NextGEN Finance
 0x6d6cF5767651F68EFb3EC1d9d7d1d93f9A41Eedc
+
 
 Email
 Babyfusemoney@gmail.com (Pp)
 
 Web
-https:://www.babyfuse.money
+https:://www.babyfuse.finance
 
 Twitter
 @babyfusemoney
