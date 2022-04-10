@@ -17,19 +17,11 @@ Will complete transaction of dapp (always works this way regardless)
 
 # Info
 
-Div Tracker
-0x9B83723735D72c65FC3679A5F429A43a6237Dd0D
+Baby Fuse Token Address (verified and published on fuseexplorer) 0x9A5De7C8faEacD606cE7F46422A6286C15a55F60
 
-Marketing
-0xe36b2472A51d0c71720f88F68C1360fF6bCA6323
+https://explorer.fuse.io/address/0x9A5De7C8faEacD606cE7F46422A6286C15a55F60/transactions
 
-Rewards Token FUSE
-0x0BE9e53fd7EDaC9F859882AfdDa116645287C629
-
-Chart
-https://dexscreener.com/fuse/0xa41bbfb7e6968c5646921a4f830ef8b5eafce523
-
-# Tokenomics
+Tokenomics
 
 15% Buy tax
 
@@ -41,25 +33,26 @@ https://dexscreener.com/fuse/0xa41bbfb7e6968c5646921a4f830ef8b5eafce523
 
 3% Liquidity Pool
 
+Div Tracker 0x9B83723735D72c65FC3679A5F429A43a6237Dd0D
 
-Pair Address
-0xA41bBFb7E6968C5646921A4f830eF8B5eafcE523
+Rewards Token FUSE 0x0BE9e53fd7EDaC9F859882AfdDa116645287C629
 
-Router Used NextGEN Finance
-0x6d6cF5767651F68EFb3EC1d9d7d1d93f9A41Eedc
+Chart https://dexscreener.com/fuse/0xa41bbfb7e6968c5646921a4f830ef8b5eafce523
 
+Analytics https://app.next-gen.finance/info/token/0x9a5de7c8faeacd606ce7f46422a6286c15a55f60
 
-Email
-Babyfusemoney@gmail.com (Pp)
+Pair Address 0xA41bBFb7E6968C5646921A4f830eF8B5eafcE523
 
-Web
-https:://www.babyfuse.finance
+Router Used NextGEN Finance 0x6d6cF5767651F68EFb3EC1d9d7d1d93f9A41Eedc
 
-Twitter
-@babyfusemoney
+Email Babyfusemoney@gmail.com (Pp)
 
-Telegram
-https://t.me/Babyfusemoney
+Web https://www.babyfuse.finance
 
-Whitepaper
-Shortly
+Twitter @babyfusemoney
+
+Telegram https://t.me/Babyfusemoney
+
+Whitepaper https://docs.babyfuse.finance
+
+Medium Blog https://babyfuse.medium.com
